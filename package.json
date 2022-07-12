@@ -2,8 +2,8 @@
   "name": "full-stack-ts",
   "version": "0.0.0",
   "description": "Mike North's Full Stack TypeScript course",
-  "repository": "https://github.com/mike-north/full-stack-ts",
-  "author": "Mike North <michael.l.north@gmail.com> (https://mike.works)",
+  "repository": "https://github.com/jsflor/full-stack-ts",
+  "author": "Sebastian Flor <jsflor97@gmail.com>",
   "license": "NOLICENSE",
   "private": true,
   "scripts": {
